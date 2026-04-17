@@ -1,0 +1,6 @@
+{
+  "name": "Ai Nhanh Hơn - Bé Yêu Tiếng Anh",
+  "description": "Ứng dụng học tiếng Anh vui nhộn dành cho trẻ em với nhận diện khuôn mặt bằng AI.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["AI Camera Recognition", "Educational Game"]
+}
